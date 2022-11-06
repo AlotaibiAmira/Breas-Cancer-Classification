@@ -101,7 +101,7 @@ Facebook model after training on BreakHis dataset
 ![results](images/map1_FModel.png)
 
 
-##References
+## References
 
 1. F. A. Spanhol, L. S. Oliveira, C. Petitjean, and L. Heutte, “A dataset for
 breast cancer histopathological image classification,” Ieee transactions
