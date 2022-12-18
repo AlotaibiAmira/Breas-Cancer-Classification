@@ -98,7 +98,9 @@ In ensemble model, use same training set and testing set for both models, so tha
 ### Attention map 
 
 Google model after training on BreakHis dataset
-<img src="images/map1_GModel.png" width="100" height="50">
+
+<img src="images/map1_GModel.png" width="500" height="200">
+
 ![results](images/map1_GModel.png)
 
 Facebook model after training on BreakHis dataset
