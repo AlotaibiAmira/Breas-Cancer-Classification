@@ -6,7 +6,12 @@ Breast cancer classification using vision transformers and transfer learning
 If you find this code useful in your research, please consider citing the paper:
 
 ```
-
+@article{alotaibi2022vit,
+  title={ViT-DeiT: An Ensemble Model for Breast Cancer Histopathological Images Classification},
+  author={Alotaibi, Amira and Alafif, Tarik and Alkhilaiwi, Faris and Alatawi, Yasser and Althobaiti, Hassan and Alrefaei, Abdulmajeed and Hawsawi, Yousef M and Nguyen, Tin},
+  journal={arXiv preprint arXiv:2211.00749},
+  year={2022}
+}
 
 ```
 
